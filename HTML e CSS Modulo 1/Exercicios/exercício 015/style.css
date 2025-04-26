@@ -1,0 +1,15 @@
+@charset "UTF-8";	/* Define o conjunto de caracteres UTF-8 */
+
+body {
+	background-color: rgb(190, 218, 228);
+	font-family: 'Arial', sans-serif;
+}
+h1 {
+	color: aqua;
+}
+h2 {
+	color: crimson;
+}
+p {
+	text-align: justify;
+}
